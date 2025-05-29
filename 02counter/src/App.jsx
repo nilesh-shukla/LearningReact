@@ -11,7 +11,6 @@ function App() {
 
   let addValue = () => {
     // counter = counter + 1;
-    
     if(counter >= 20) {
       setCounter(20)
     }
@@ -21,7 +20,6 @@ function App() {
   }
 
   let removeValue = () => {
-    
     if(counter <= 0){
       setCounter(0)
     }
