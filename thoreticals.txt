@@ -1,0 +1,3 @@
+1. Reconcollation
+2. Fiber in reactJS
+3. Virtual DOM\
